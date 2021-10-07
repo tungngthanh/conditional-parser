@@ -6,7 +6,7 @@ This repository contains the source code of our paper "A Conditional Splitting F
 * `transformers`: 3.0
 
 ## Usage
-Put the data into data folder
+Put the data from [here](https://github.com/nikitakit/self-attentive-parser/tree/master/data) into folder```data```
 
 To train the English constituency parser:
 
